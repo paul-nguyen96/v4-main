@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Currently looking for new opportunities and to network within this industry, so my inbox is always open.
+        Currently looking for new jobs opportunities or to network within this industry, so my inbox is always open.
         Whether you have a question or just want to say hi, I’ll try my best to get back to you!
       </p>
 

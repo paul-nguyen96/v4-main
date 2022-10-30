@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a student studying Computer Science at Oregon State University. Currently, I’m focused
+        I’m a part-student studying Computer Science at Oregon State University. Currently, I’m focused
         on learning the latest technologies in web development using{' '}
         <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           100Devs
